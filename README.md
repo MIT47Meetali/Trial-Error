@@ -4,4 +4,4 @@ This repo is mainly created for reviewing bugs and issue fixes during the projec
 
 ### Always keep learning and apply your lernings.
 
-Put your thoughts and
+Put your thoughts and give
