@@ -6,4 +6,4 @@ Put your thoughts and give valuable contributions.
 
 ### Always keep learning and apply your lernings.
 
-#Thanks to all
+## Thanks to all
