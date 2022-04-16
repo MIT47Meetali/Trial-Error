@@ -1,4 +1,4 @@
-# Trial-Error
+# Trial & Errors
 
 This repo is mainly created for reviewing bugs and issue fixes during the project.
 
